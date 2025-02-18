@@ -109,3 +109,11 @@ Development tool for analyzing XML structure and content.
 - The scraper includes rate limiting and random delays to avoid overloading the server
 - Downloads are resumable in case of interruption
 - The scripts process parliamentary years 2021-2022, 2022-2023, and 2023-2024 by default
+
+## License
+
+This work is licensed under GPLv3
+
+## Collaboration
+
+Contact Pieter van Boheemen p.vanboheemen@democratiemonitor.nl
